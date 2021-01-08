@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script:100,200,300,400,500,600,700|Open+Sans+Condensed:100,200,300,400,500,600,700');
+
 * {
     margin: 0;
     padding: 0;
+}
+
+body {
+    font-family: "Open Sans Condensed", sans-serif;
 }
 
 /*--------------------------- Navbar -----*/
@@ -13,6 +19,15 @@
     color: #000;
 }
 
+.logo {
+    font-family: "Bad Script", sans-serif;
+    font-size: 27px;
+}
+
+.navbar .navbar-nav .nav-item {
+    font-family: "Bad Script", sans-serif;
+    font-size: 24px;
+}
 
 /*--------------------------- Hover -----*/
 
