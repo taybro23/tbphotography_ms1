@@ -88,6 +88,13 @@ footer div {
     height: 80vh;
 }
 
+.home-sec {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 .home-header {
     font-family: "Bad Script", sans-serif;
     text-align: center;
