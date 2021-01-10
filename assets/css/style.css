@@ -29,6 +29,21 @@ body {
     font-size: 24px;
 }
 
+/*--------------------------- Footer -----*/
+
+.container-footer-other {
+    padding-top: 15px;
+    color: #000;
+}
+
+footer div {
+    text-align: center;
+}
+
+.footer-text {
+    font-family: "Bad Script", sans-serif;
+    font-size: 20px;
+}
 
 
 /*--------------------------- Hover -----*/
