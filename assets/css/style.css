@@ -69,6 +69,17 @@ footer div {
     -o-transition: all 0.35s ease-in-out;
 }
 
+/*----------------------------- Home page */
+
+.homepage {
+    background-image: url('../images/index/bridge.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+
+
+
 /*--------------------------- Hover -----*/
 
 .navbar .navbar-brand:hover {
