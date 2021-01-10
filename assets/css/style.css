@@ -52,6 +52,7 @@ body {
 
 .container-footer-other {
     padding-top: 15px;
+    background-color: rgb(55, 135, 56);
     color: #000;
 }
 
@@ -118,8 +119,6 @@ footer div {
     -webkit-box-shadow: 0 0 5px 5px rgba(0,0,0,0.5);
     box-shadow: 0 0 5px 5px rgba(0,0,0,0.5);
 }
-
-
 
 /*--------------------------- Hover -----*/
 
