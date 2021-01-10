@@ -14,6 +14,11 @@ body {
     text-decoration: underline;
 }
 
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
 .row {
     margin-right: 0;
     margin-left: 0;
