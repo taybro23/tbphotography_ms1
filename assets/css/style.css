@@ -9,6 +9,10 @@ body {
     font-family: "Open Sans Condensed", sans-serif;
 }
 
+.active {
+    text-decoration: underline;
+}
+
 /*--------------------------- Navbar -----*/
 
 .navbar {
