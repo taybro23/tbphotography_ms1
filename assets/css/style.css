@@ -151,6 +151,26 @@ footer div {
     text-align: center;
 }
 
+#center-pic {
+  width: 33%;
+  margin: 0 auto;
+}
+
+#circle-container {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#circle-bg {
+  background: url("../images/about/me.jpg") no-repeat center center;
+  height: 100%;
+  border-radius: 50%;
+}
+
 /*---------------------------------- Gallery */
 
 .gh-main {
