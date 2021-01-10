@@ -94,6 +94,14 @@ footer div {
     height: 80vh;
 }
 
+.bg-color-1 {
+    background-color: #c6ebffa3;
+}
+
+.bg-color-2 {
+    background-color: #dffbe6ab;
+}
+
 .home-sec {
     width: 90%;
     margin: 0 auto;
