@@ -144,13 +144,6 @@ footer div {
     margin-top: 30px;
 }
 
-.about-me-text {
-    width: 65%;
-    margin: 0 auto;
-    margin-bottom: 30px;
-    text-align: center;
-}
-
 #center-pic {
   width: 33%;
   margin: 0 auto;
@@ -169,6 +162,13 @@ footer div {
   background: url("../images/about/me.jpg") no-repeat center center;
   height: 100%;
   border-radius: 50%;
+}
+
+.about-me-text {
+    width: 65%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    text-align: center;
 }
 
 /*---------------------------------- Gallery */
