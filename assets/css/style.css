@@ -136,6 +136,21 @@ footer div {
     box-shadow: 0 0 5px 5px rgba(0,0,0,0.5);
 }
 
+/*----------------------------- About Me */
+
+.about-me-header {
+    font-family: "Bad Script", sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.about-me-text {
+    width: 65%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
 /*---------------------------------- Gallery */
 
 .gh-main {
