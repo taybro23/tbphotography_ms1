@@ -97,7 +97,7 @@ footer div {
 
 /*----------------------------------- Footer End --------*/
 
-/*----------------------------------- Home page ---------*/
+/*----------------------------------- Home Page ---------*/
 
 .homepage {
     background-image: url('../images/index/bridge.jpg');
@@ -283,6 +283,29 @@ div .d-block {
 
 /*----------------------------------- Gallery End -------*/
 
+/*----------------------------------- Contact Form ------*/
+
+.contact-heading {
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color: #e84610;
+}
+
+/*----------------------------------- Contact Form End --*/
+
 /*----------------------------------- Hover -------------*/
 
 .navbar .navbar-brand:hover {
@@ -301,7 +324,7 @@ div .d-block {
 
 /*----------------------------------- Hover End ---------*/
 
-/*----------------------------------- Media query -------*/
+/*----------------------------------- Media Query -------*/
 
 @media(max-width: 992px) {
     .carousel {
