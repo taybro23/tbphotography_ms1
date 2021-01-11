@@ -315,6 +315,16 @@ div .d-block {
     max-width: 80%;
 }
 
+.form-label {
+    color: #fff;
+    border: #000 solid 1px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 19px;
+}
+
 .input {
     background-color: rgba(255, 255, 255, 0.8);
     color: #000;
@@ -323,7 +333,7 @@ div .d-block {
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
-    color: #fff;
+    color: rgb(189, 183, 183);
     background-color: #000;
     font-size: 20px;
 }
