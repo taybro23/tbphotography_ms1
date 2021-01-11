@@ -328,6 +328,11 @@ button[type="submit"] {
     color: #000;
 }
 
+button[type="submit"]:hover {
+    color: #000;
+    background-color: rgb(86, 172, 245);
+}
+
 /*----------------------------------- Hover End ---------*/
 
 /*----------------------------------- Media Query -------*/
