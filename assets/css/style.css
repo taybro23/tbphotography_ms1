@@ -175,6 +175,7 @@ footer div {
 
 .quote-text {
     color: #000000;
+    padding-bottom: 30px;
     padding-top: 30px;
     font-size: 25px;
     margin: 0 auto;
@@ -188,6 +189,14 @@ footer div {
     text-decoration: none;
 }
 
+.carousel-indicators li {
+    background-color: #000;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
 
 /*---------------------------------- Gallery */
 
