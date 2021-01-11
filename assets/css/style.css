@@ -221,6 +221,42 @@ div .d-block {
 
 /*----------------------------------- Carousel End ------*/
 
+.images-cont {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.rev-image-container {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.pic-1 {
+    background: url("../images/about/lake.jpg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.pic-2 {
+    background: url("../images/about/bee.jpg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.pic-3 {
+    background: url("../images/about/jasper1.jpg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 /*----------------------------------- About Me End ------*/
 
 /*----------------------------------- Gallery -----------*/
