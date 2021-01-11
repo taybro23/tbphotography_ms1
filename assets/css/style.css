@@ -173,20 +173,35 @@ footer div {
 
 /*----------------------------------- Carousel */
 
-.quote-text {
-    color: #000000;
-    padding-bottom: 30px;
+.carousel {
+    margin: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.carousel-inner {
     padding-top: 30px;
-    font-size: 25px;
-    margin: 0 auto;
-    margin-bottom: 30px;
-    text-align: center;
-    background-color: #ff40d180;
-    border-radius: 25px;
+    padding-bottom: 30px;
 }
 
 .carousel-inner .active {
     text-decoration: none;
+}
+
+div .d-block {
+    height: 300px;
+}
+
+.quote-text {
+    color: #000000;
+    padding-bottom: 300px;
+    padding-top: 30px;
+    font-size: 25px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    text-align: center;
+    background-color: #ff40d180;
+    border-radius: 25px;
 }
 
 .carousel-indicators li {
@@ -234,4 +249,28 @@ footer div {
 .social-links li a i:hover {
     background: #fff;
     color: #000;
+}
+
+/*----------------------------- Media query */
+
+@media(max-width: 992px) {
+    .carousel {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .c-m-class {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
+
+@media(max-width: 600px) {
+    .carousel {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .c-m-class {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
 }
