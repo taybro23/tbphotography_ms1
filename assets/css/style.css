@@ -177,50 +177,6 @@ footer div {
     text-align: center;
 }
 
-/*----------------------------------- Carousel ----------*/
-
-.carousel {
-    margin: 30px;
-    margin-left: 150px;
-    margin-right: 150px;
-}
-
-.carousel-inner {
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-
-.carousel-inner .active {
-    text-decoration: none;
-}
-
-div .d-block {
-    height: 300px;
-}
-
-.quote-text {
-    color: #000000;
-    padding-bottom: 300px;
-    padding-top: 30px;
-    font-size: 25px;
-    margin: 0 auto;
-    margin-bottom: 40px;
-    text-align: center;
-    background-color: #ff40d180;
-    border-radius: 25px;
-}
-
-.carousel-indicators li {
-    background-color: #000;
-}
-
-.carousel-control-next,
-.carousel-control-prev {
-    filter: invert(100%);
-}
-
-/*----------------------------------- Carousel End ------*/
-
 .images-cont {
     margin-top: 20px;
     margin-bottom: 30px;
@@ -256,6 +212,49 @@ div .d-block {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+/*----------------------------------- Carousel ----------*/
+
+.carousel {
+    margin: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.carousel-inner {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.carousel-inner .active {
+    text-decoration: none;
+}
+
+div .d-block {
+    height: 300px;
+}
+
+.quote-text {
+    color: #000000;
+    padding-top: 30px;
+    font-size: 23px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    text-align: center;
+    background-color: #ff40d180;
+    border-radius: 25px;
+}
+
+.carousel-indicators li {
+    background-color: #000;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+/*----------------------------------- Carousel End ------*/
 
 /*----------------------------------- About Me End ------*/
 
