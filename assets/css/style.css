@@ -171,17 +171,11 @@ footer div {
     text-align: center;
 }
 
-.quote-div {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin-left: 30px;
-    margin-right: 30px;
-}
+/*----------------------------------- Carousel */
 
 .quote-text {
     color: #000000;
     padding-top: 30px;
-    padding-bottom: 30px;
     font-size: 25px;
     margin: 0 auto;
     margin-bottom: 30px;
@@ -189,6 +183,11 @@ footer div {
     background-color: #ff40d180;
     border-radius: 25px;
 }
+
+.carousel-inner .active {
+    text-decoration: none;
+}
+
 
 /*---------------------------------- Gallery */
 
