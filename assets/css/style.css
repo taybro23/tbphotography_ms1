@@ -315,6 +315,11 @@ div .d-block {
     max-width: 70%;
 }
 
+.input {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #000;
+}
+
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
@@ -339,6 +344,10 @@ button[type="submit"] {
 .social-links li a i:hover {
     background: #fff;
     color: #000;
+}
+
+.input:hover {
+    border-color: #000;
 }
 
 button[type="submit"]:hover {
