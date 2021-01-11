@@ -36,7 +36,7 @@ hr {
     margin-right: auto;
 }
 
-/*--------------------------- Navbar -----*/
+/*----------------------------------- Navbar ------------*/
 
 .navbar {
     background-color: rgb(86, 172, 245);
@@ -56,7 +56,9 @@ hr {
     font-size: 24px;
 }
 
-/*--------------------------- Footer -----*/
+/*----------------------------------- Navbar End --------*/
+
+/*----------------------------------- Footer ------------*/
 
 .container-footer-other {
     padding-top: 15px;
@@ -93,7 +95,9 @@ footer div {
     -o-transition: all 0.35s ease-in-out;
 }
 
-/*----------------------------- Home page */
+/*----------------------------------- Footer End --------*/
+
+/*----------------------------------- Home page ---------*/
 
 .homepage {
     background-image: url('../images/index/bridge.jpg');
@@ -136,7 +140,9 @@ footer div {
     box-shadow: 0 0 5px 5px rgba(0,0,0,0.5);
 }
 
-/*----------------------------- About Me */
+/*----------------------------------- Home Page End -----*/
+
+/*----------------------------------- About Me ----------*/
 
 .about-me-header {
     font-family: "Bad Script", sans-serif;
@@ -171,7 +177,7 @@ footer div {
     text-align: center;
 }
 
-/*----------------------------------- Carousel */
+/*----------------------------------- Carousel ----------*/
 
 .carousel {
     margin: 30px;
@@ -213,7 +219,11 @@ div .d-block {
     filter: invert(100%);
 }
 
-/*---------------------------------- Gallery */
+/*----------------------------------- Carousel End ------*/
+
+/*----------------------------------- About Me End ------*/
+
+/*----------------------------------- Gallery -----------*/
 
 .gh-main {
     text-align: center;
@@ -235,7 +245,9 @@ div .d-block {
     height: 100%;
 }
 
-/*--------------------------- Hover -----*/
+/*----------------------------------- Gallery End -------*/
+
+/*----------------------------------- Hover -------------*/
 
 .navbar .navbar-brand:hover {
     text-decoration: underline;
@@ -251,7 +263,9 @@ div .d-block {
     color: #000;
 }
 
-/*----------------------------- Media query */
+/*----------------------------------- Hover End ---------*/
+
+/*----------------------------------- Media query -------*/
 
 @media(max-width: 992px) {
     .carousel {
@@ -274,3 +288,5 @@ div .d-block {
         margin-right: 10px;
     }
 }
+
+/*----------------------------------- Media Query End ---*/
