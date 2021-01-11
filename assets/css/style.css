@@ -312,7 +312,7 @@ div .d-block {
 .center-form {
     padding-top: 10px;
     margin: 0 auto;
-    max-width: 70%;
+    max-width: 80%;
 }
 
 .input {
@@ -378,6 +378,15 @@ button[type="submit"]:hover {
     .c-m-class {
         margin-left: 10px;
         margin-right: 10px;
+    }
+}
+
+@media(min-width: 992px) {
+    .center-form {
+        padding-top: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
     }
 }
 
