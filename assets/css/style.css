@@ -181,10 +181,13 @@ footer div {
 .quote-text {
     color: #000000;
     padding-top: 30px;
+    padding-bottom: 30px;
     font-size: 25px;
     margin: 0 auto;
     margin-bottom: 30px;
     text-align: center;
+    background-color: #ff40d180;
+    border-radius: 25px;
 }
 
 /*---------------------------------- Gallery */
