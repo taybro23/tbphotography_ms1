@@ -294,6 +294,10 @@ div .d-block {
     object-fit: cover;
 }
 
+.contact-margin {
+    margin-bottom: 150px;
+}
+
 .contact-heading {
     font-weight: bold;
     margin-top: 30px;
