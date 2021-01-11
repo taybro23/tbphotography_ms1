@@ -285,6 +285,15 @@ div .d-block {
 
 /*----------------------------------- Contact Form ------*/
 
+.bg-contact {
+    background-image: url('../images/contact/peakd.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    object-fit: cover;
+}
+
 .contact-heading {
     font-weight: bold;
     margin-top: 30px;
