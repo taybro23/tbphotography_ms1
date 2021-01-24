@@ -74,7 +74,9 @@ navigated between. This improves overall user experience.
 and get an idea of what they can expect from me.
 
 ### **Contact Me.**
-
+* Large background cover image 
+  * A large background image behind the form works well as it avoids any blank space behind or around the form.
+  The contact form itself is slightly transparent to help it blend in.
 
 
 # Design.
