@@ -60,13 +60,43 @@ button on the Contact Me page.
 of the images.
 * #ff40d180 - Pink, used for the review section on my About Me page.
 
-
 ## **Imagery.** 
 All photos used on my website are photos taken by myself. 
 
 
-
 # Features.
+
+## **Existing Features.**
+
+### **Across All Pages.**
+
+* Navbar
+  * The navbar is has been set to "fixed top" so that it will alway be accessible and pages can easily be
+navigated between. This improves overall user experience.
+* Responsive design
+  * My website was built mobile first and is fully responsive. This was done using Bootstrap.
+* Hover effects
+  * I used hover effects throughout the website to make the site more visually appealing and to 
+  help users navigate more easily.
+  * Colour scheme
+  * I used background colours throughout my site to differentiate between sections. This makes it more pleasing to the eye
+  and helps to break the view up from a pure white background features on many sites.
+
+
+
+### **Home.**
+### **About Me.**
+### **Gallery.**
+### **Contact Me.**
+ 
+* Carousel review section
+  * For the review section on my website I wanted it to look good and flow well with the rest of the site. 
+  I achieved this by implimenting a carousel. Users are able to easily flick between reviews without being 
+  bombarded with paragraphs and paragraphs of text at one time. 
+* Colour scheme
+  * I used background colours throughout my site to differentiate between sections. This makes it more pleasing to the eye
+  and helps to break the view up from a pure white background features on many sites.
+* 
 
 
 # Technologies Used.
