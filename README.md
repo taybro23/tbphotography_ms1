@@ -48,7 +48,7 @@ of the images.
 
 
 ## **Imagery.** 
-All images used on my website are photos taken by myself. 
+All photos used on my website are photos taken by myself. 
 
 
 
@@ -71,13 +71,14 @@ me with JavaScript to create a collapsible menu on mobile devices.
 
 
 # Testing.
-
+* [W3C HTML Validator](https://validator.w3.org/#validate_by_input) was used for HTML validation.
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) was used for CSS validation.
 
 # Credits.
 ## **Content.** 
 * Navbar – I used Bootstrap for the navbar and edited the code to change the style and colour. 
 * Social Links – For the social links I followed the code from a tutorial at Code Institute, 
-specifically the CV website build. I made small amendments.
+specifically the CV website build. I made small amendments. I also used icons from Font Awesome.
 * About me – For the circular pictures on the “About Me” page I followed the code from the 
 Love Running tutorial at Code Institute.
 * Review – The carousel I used for the review section was code from Bootstrap. I made some amendments.
