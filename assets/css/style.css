@@ -320,13 +320,13 @@ div .d-block {
     padding-top: 10px;
     margin: 0 auto;
     max-width: 80%;
+    background: #ffffffcf;
+    padding: 10px;
+    border-radius: 25px;
 }
 
 .form-label {
-    color: #fff;
-    border: #000 solid 1px;
-    border-radius: 25px;
-    background-color: rgba(0, 0, 0, 0.6);
+    color: #000;
     padding-left: 5px;
     padding-right: 5px;
     font-size: 19px;
