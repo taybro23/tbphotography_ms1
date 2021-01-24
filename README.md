@@ -18,6 +18,7 @@ commercial use such as small businesses for promotional purposes and newspaper a
 ## **Wireframes.**
 The Link to my wireframes is below. I have changed the website layout since doing the wireframes,
 however I believe these changes have made the live website look better overall.
+
 [Wireframes](assets/wireframes/photography.pdf)
 
 
