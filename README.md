@@ -31,8 +31,20 @@ Sans Serif – This is the reserve font should anything go wrong with the previo
 ## **Colours.**
 The main colours for my website are shades of blues and greens that complement the images used throughout 
 the site. Black and white colours are kept for the text and alternative backgrounds, and I used a shade of 
-pink for the review section to make it stand out. 
+pink for the review section to make it stand out. I used different opacities of these colours in order to 
+improve the overall look of the site.
 
+Colours used;
+* #000 - Black used for the text
+* rgb(86, 172, 245) - A shade of blue used mainly for the navbar, as well as the hover colour for the Submit 
+button on the Contact Me page.
+* rgb(55, 135, 56) - A shade of green used for the footer.
+* #fff - White used for social links on the footer and the contact form background colour. 
+* #c6ebffa3 - A shade of blue used on the homepage section one.
+* #dffbe6ab - A shade of green used on the homepage section two.
+* #ade5ff66 - Another shade of blue, used on the About Me page for the background
+of the images.
+* #ff40d180 - Pink, used for the review section on my About Me page.
 
 
 ## **Imagery.** 
