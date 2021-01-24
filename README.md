@@ -62,7 +62,8 @@ In this project, I used the following languages;
 * CSS
 
 ## **Frameworks, Libraries and Programs Used.**
-* Boostrap – Bootstrap was used to help me with the basic layouts for the pages, as well as provide JavaScript to create a collapsible menu on mobile devices.
+* Boostrap – Bootstrap was used to help me with the basic layouts for the pages, as well as provide 
+JavaScript to create a collapsible menu on mobile devices.
 * Google Fonts – I used google fonts to find the best two fonts for use on my website. 
 * Github – Github was used to store the code for the project
 * Chrome Developer Tools – This helped me to make amendments live to the site and check media queries.
@@ -73,3 +74,18 @@ In this project, I used the following languages;
 
 
 # Credits.
+## **Content.** 
+* Navbar – I used Bootstrap for the navbar and edited the code to change the style and colour. 
+* Social Links – For the social links I followed the code from a tutorial at Code Institute, 
+specifically the CV website build. I made small amendments.
+* About me – For the circular pictures on the “About Me” page I followed the code from the 
+Love Running tutorial at Code Institute.
+* Review – The carousel I used for the review section was code from Bootstrap. I made some amendments.
+* Bootstrap indicator edit – I used stack overflow to help me with editing the indicators and the 
+general look over the carousel. 
+* Form – The code I used for the form was a tutorial from Code Institute, used specifically 
+on the CV website build. 
+
+## **Acknowledgements.**
+I want to thank my mentor Maranatha for helping me to improve my site, and my fellow Code Institue students 
+for their assistance in code queries and improvements!
