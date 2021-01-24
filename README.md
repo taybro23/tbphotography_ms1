@@ -36,6 +36,47 @@ however I believe these changes have made the live website look better overall.
 * [Wireframes](assets/wireframes/photography.pdf)
 
 
+# Features.
+
+## **Existing Features.**
+
+### **Across All Pages.**
+
+* Navbar
+  * The navbar is has been set to "fixed top" so that it will alway be accessible and pages can easily be
+navigated between. This improves overall user experience.
+* Responsive design
+  * My website was built mobile first and is fully responsive. This was done using Bootstrap.
+* Hover effects
+  * I used hover effects throughout the website to make the site more visually appealing and to 
+  help users navigate more easily.
+* Colour scheme
+  * I used background colours throughout my site to differentiate between sections. This makes it more pleasing to the eye
+  and helps to break the view up from a pure white background features on many sites.
+
+### **Home.**
+* Large homepage image 
+  * The large homepage image welcomes people to the site and lets them get a taste of what to expect throughout 
+  the rest of the site. The bright colours and welcoming layout make sure that the user has a great intial 
+  response to the design.
+
+### **About Me.**
+* Central photo
+  * The central photo of myself allows people to see who I am, and it also adds a personal touch to the website.
+* Carousel review section
+  * For the review section on my website I wanted it to look good and flow well with the rest of the site. 
+  I achieved this by implimenting a carousel. Users are able to easily flick between reviews without being 
+  bombarded with paragraphs and paragraphs of text at one time. 
+
+### **Gallery.**
+* Area breakdown
+  * Gallery is broken down into areas where photos were taken. This allows the user to see my versatility as a photographer
+and get an idea of what they can expect from me.
+
+### **Contact Me.**
+
+
+
 # Design.
 ## **Typography.**
 * Open Sans Condensed – This is the main font I used for the site due to its simple and clean look.
@@ -62,41 +103,6 @@ of the images.
 
 ## **Imagery.** 
 All photos used on my website are photos taken by myself. 
-
-
-# Features.
-
-## **Existing Features.**
-
-### **Across All Pages.**
-
-* Navbar
-  * The navbar is has been set to "fixed top" so that it will alway be accessible and pages can easily be
-navigated between. This improves overall user experience.
-* Responsive design
-  * My website was built mobile first and is fully responsive. This was done using Bootstrap.
-* Hover effects
-  * I used hover effects throughout the website to make the site more visually appealing and to 
-  help users navigate more easily.
-  * Colour scheme
-  * I used background colours throughout my site to differentiate between sections. This makes it more pleasing to the eye
-  and helps to break the view up from a pure white background features on many sites.
-
-
-
-### **Home.**
-### **About Me.**
-### **Gallery.**
-### **Contact Me.**
- 
-* Carousel review section
-  * For the review section on my website I wanted it to look good and flow well with the rest of the site. 
-  I achieved this by implimenting a carousel. Users are able to easily flick between reviews without being 
-  bombarded with paragraphs and paragraphs of text at one time. 
-* Colour scheme
-  * I used background colours throughout my site to differentiate between sections. This makes it more pleasing to the eye
-  and helps to break the view up from a pure white background features on many sites.
-* 
 
 
 # Technologies Used.
