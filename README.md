@@ -7,26 +7,26 @@
 I have created a website whereby I am promoting myself as a professional photographer. 
 My aim with this website was to showcase my abilities as a photographer to potential clients. 
 There is a page where people can learn a little about me, and a gallery where people can view 
-my most recent images. I have also included a Contact Me page so potential clients can get in 
+my most recent picures. I have also included a Contact Me page so potential clients can get in 
 touch using a contact form. 
 
 # UX (User Experience).
 ## **Target audience.** 
-The target audience for my website is people who are looking for images for personal and 
+The target audience for my website is people who are looking for pictures for personal and 
 commercial use such as small businesses for promotional purposes and newspaper articles. 
 
 ## **Wireframes.**
 The Link to my wireframes is below. I have changed the website layout since doing the wireframes,
 however I believe these changes have made the live website look better overall.
 
-[Wireframes](assets/wireframes/photography.pdf)
+* [Wireframes](assets/wireframes/photography.pdf)
 
 
 # Design.
 ## **Typography.**
-Open Sans Condensed – This is the main font I used for the site due to its simple and clean look.
-Bad Script – I wanted something a bit more artistic for the secondary font, and Bad Script fit that for me.
-Sans Serif – This is the reserve font should anything go wrong with the previous two. 
+* Open Sans Condensed – This is the main font I used for the site due to its simple and clean look.
+* Bad Script – I wanted something a bit more artistic for the secondary font, and Bad Script fit that for me.
+* Sans Serif – This is the reserve font should anything go wrong with the previous two. 
 
 ## **Colours.**
 The main colours for my website are shades of blues and greens that complement the images used throughout 
@@ -34,7 +34,7 @@ the site. Black and white colours are kept for the text and alternative backgrou
 pink for the review section to make it stand out. I used different opacities of these colours in order to 
 improve the overall look of the site.
 
-Colours used;
+List of colours used;
 * #000 - Black used for the text
 * rgb(86, 172, 245) - A shade of blue used mainly for the navbar, as well as the hover colour for the Submit 
 button on the Contact Me page.
@@ -48,7 +48,7 @@ of the images.
 
 
 ## **Imagery.** 
-All images used on my website were taken by myself. 
+All images used on my website are photos taken by myself. 
 
 
 
@@ -62,12 +62,12 @@ In this project, I used the following languages;
 * CSS
 
 ## **Frameworks, Libraries and Programs Used.**
-* Boostrap – Bootstrap was used to help me with the basic layouts for the pages, as well as provide 
-JavaScript to create a collapsible menu on mobile devices.
-* Google Fonts – I used google fonts to find the best two fonts for use on my website. 
-* Github – Github was used to store the code for the project
-* Chrome Developer Tools – This helped me to make amendments live to the site and check media queries.
-* Balsamiq – This was used to create the wireframes
+* Boostrap – Bootstrap was used to help me with the basic layouts for the pages, as well as providing 
+me with JavaScript to create a collapsible menu on mobile devices.
+* Google Fonts – I used google fonts to find the best two fonts to suit the needs of my website. 
+* Github – Github was used to store the code for the project.
+* Chrome Developer Tools – This helped me by allowing me to make amendments live to the site, as well as to check media queries.
+* Balsamiq – This was used to create the original wireframes.
 
 
 # Testing.
