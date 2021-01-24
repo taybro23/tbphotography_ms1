@@ -29,7 +29,11 @@ Bad Script – I wanted something a bit more artistic for the secondary font, an
 Sans Serif – This is the reserve font should anything go wrong with the previous two. 
 
 ## **Colours.**
-The main colours for my website are shades of blues and greens that complement the images used throughout the site. Black and white colours are kept for the text and alternative backgrounds, and I used a shade of pink for the review section to make it stand out. 
+The main colours for my website are shades of blues and greens that complement the images used throughout 
+the site. Black and white colours are kept for the text and alternative backgrounds, and I used a shade of 
+pink for the review section to make it stand out. 
+
+
 
 ## **Imagery.** 
 All images used on my website were taken by myself. 
@@ -40,6 +44,17 @@ All images used on my website were taken by myself.
 
 
 # Technologies Used.
+## **Languages.**
+In this project, I used the following languages;
+* HTML
+* CSS
+
+## **Frameworks, Libraries and Programs Used.**
+* Boostrap – Bootstrap was used to help me with the basic layouts for the pages, as well as provide JavaScript to create a collapsible menu on mobile devices.
+* Google Fonts – I used google fonts to find the best two fonts for use on my website. 
+* Github – Github was used to store the code for the project
+* Chrome Developer Tools – This helped me to make amendments live to the site and check media queries.
+* Balsamiq – This was used to create the wireframes
 
 
 # Testing.
