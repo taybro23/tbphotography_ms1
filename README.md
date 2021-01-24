@@ -15,6 +15,20 @@ touch using a contact form.
 The target audience for my website is people who are looking for pictures for personal and 
 commercial use such as small businesses for promotional purposes and newspaper articles. 
 
+## **User Stories.**
+### **Personal Customer Stories**
+* A personal customer would want a good looking website with lots of information and examples of work. 
+* They will be more interested to learn more about the person, what kind of photo shoots they do and experiences that previous customers have had. 
+* They would like to have the information needed to be able to contact the person if they wish to discuss a possible photo shoot.
+* Social media may be more important to a personal customer, and they will be able to find these links on the footer of each page. 
+
+### **Commercial Customer Stories**
+* For a business owner, they would like to see a simple design that is easy to navigate.
+* All the information they needed would be easily accessible. Main information to be provided to the potential client upon arrival of the website, this is on the footer of each page, and in the clearly marked “Contact Me” page. 
+* A business customer is less likely to have ample amounts of time to look through sites so all information is put on separate pages so they can go directly to what they are looking for.
+* Examples of previous work is important. The gallery page showcases the best/most recent photographs and shows the photographers versatility.
+
+
 ## **Wireframes.**
 The Link to my wireframes is below. I have changed the website layout since doing the wireframes,
 however I believe these changes have made the live website look better overall.
