@@ -407,4 +407,10 @@ button[type="submit"]:hover {
     }
 }
 
+@media(max-width: 380px) {
+    .logo {
+        font-size: 25px;
+    }
+}
+
 /*----------------------------------- Media Query End ---*/
