@@ -15,6 +15,10 @@ touch using a contact form.
 The target audience for my website is people who are looking for images for personal and 
 commercial use such as small businesses for promotional purposes and newspaper articles. 
 
+## **Wireframes.**
+The Link to my wireframes is below. I have changed the website layout since doing the wireframes,
+however I believe these changes have made the live website look better overall.
+[Wireframes](assets/wireframes/photography.pdf)
 
 
 # Design.
