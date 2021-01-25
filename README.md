@@ -24,7 +24,7 @@ commercial use, such as small businesses for promotional purposes and reporters 
 
 ### **Commercial Customer Stories**
 * For a business owner, they would like to see a simple design that is easy to navigate.
-* All the information they needed would be easily accessible. Main information to be provided to the potential client upon arrival of the website, this is on the footer of each page, and in the clearly marked “Contact Me” page. 
+* All the information they want is easily accessible. Main information is provided to the potential client upon arrival of the website, this is on the footer of each page, and in the clearly marked “Contact Me” page. 
 * A business customer is less likely to have ample amounts of time to look through sites so all information is put on separate pages so they can go directly to what they are looking for.
 * Examples of previous work is important. The gallery page showcases the best/most recent photographs and shows the photographers versatility.
 
@@ -171,7 +171,7 @@ Personal Customer Stories;
 Commercial Customer Stories;
 * *For a business owner, they would like to see a simple design that is easy to navigate.*
   * I have kept the website simple with a fixed navbar so that pages can easily be navigated between regardless of position on the site. 
-* *All the information they needed would be easily accessible. Main information to be provided to the potential client upon arrival of the website, this is on the footer of each page, and in the clearly marked “Contact Me” page.*
+* *All the information they want is easily accessible. Main information is provided to the potential client upon arrival of the website, this is on the footer of each page, and in the clearly marked “Contact Me” page.*
   *  As stated here, all the information they would need is on the about me and contact me pages, as well as social media links and an email address being provided on the footer of each page. 
 * *A business customer is less likely to have ample amounts of time to look through sites so all information is put on separate pages so they can go directly to what they are looking for.*
   * I have kept each section separate to their respective pages for ease of use for all clients, for example, if they are looking for more information about the photographer to see if they are the right person for the job, the about me page will be the most useful page for them. This is clearly indicated on the navbar, and again is available throughout each page and is fixed to the top so it can be easily navigated to. 
