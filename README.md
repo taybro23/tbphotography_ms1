@@ -5,9 +5,9 @@
 
 ## **About.** 
 I have created a website whereby I am promoting myself as a professional photographer. 
-My aim with this website was to showcase my abilities as a photographer to potential clients. 
+My aim with this website is to showcase my abilities as a photographer to my potential clients. 
 There is a page where people can learn a little about me, and a gallery where people can view 
-my most recent picures. I have also included a Contact Me page so potential clients can get in 
+my most recent photographs. I have also included a Contact Me page where potential clients can get in 
 touch using a contact form. 
 
 # UX (User Experience).
