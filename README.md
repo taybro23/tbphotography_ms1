@@ -128,7 +128,7 @@ me with JavaScript to create a collapsible menu on mobile devices.
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) was used for CSS validation. The test came back with no found issues.
 
 ## **Features and Functionality Tests.**
-Across all pages;
+Across All Pages;
 * Navbar.
   * I checked that all links work correctly and go to the correct pages. 
   * Fixed top. This was not a feature that I initially had on the site but wanted to add it to make navigating the website more easily. I made sure the code worked on the index page then copied the code across to all pages.
@@ -156,6 +156,17 @@ Page Specific;
   * The contact form was thoroughly tested to make sure all fields are correctly set to “required”. 
   * The inputs were all checked as well to make sure that the correct types had to be entered eg, email address field had to have the email format. 
   * Telephone number issues with letters being able to be submitted, this has since been fixed and although letters can still be entered in the field, they cannot be submitted and an error message is shown.
+
+## **User story testing.**
+Personal Customer Stories;
+* *A personal customer would want a good looking website with lots of information and examples of work.*
+  * I personally believe my website looks good and is easy on the eye, and I used bright colours to improve this. The home page has snippets of information about me and what I do, as well as showcasing a couple of photos. The about me page has an image of myself with some information about me, as well as reviews at the bottom of the page so users can see how previous clients have found working with me to be. The gallery shows my most recent photos, split into areas where they were taken to show versatility in my abilities. On the contact me page, further contact information can be found as well as a form where potential clients can submit a query. 
+* *They will be more interested to learn more about the person, what kind of photo shoots they do and experiences that previous customers have had.*
+  * My about me and gallery pages fulfil these wants of a potential client. Lots of reviews and photos are provided on the site. 
+* *They would like to have the information needed to be able to contact the person if they wish to discuss a possible photo shoot.*
+  * The footer is the same on every page and contains links to my social media as well as an email address. My contact me page contains my mobile number and a form where they can submit any questions, queries or requests. 
+* *Social media may be more important to a personal customer, and they will be able to find these links on the footer of each page.*
+  * Social media links can be found on the footer of every page. 
 
 
 # Credits.
