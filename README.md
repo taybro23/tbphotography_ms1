@@ -43,17 +43,17 @@ however I believe these changes have made the live website look better overall.
 ### **Across All Pages.**
 
 * Navbar
-  * The navbar is has been set to "fixed top" so that it will alway be accessible and pages can easily be
+  * The navbar has been set to "fixed top" so that it will alway be accessible and pages can easily be
 navigated between. This improves overall user experience.
   * Underline used in CSS to show which page the user is currently on.
 * Responsive design
   * My website was built mobile first and is fully responsive. This was done using Bootstrap.
 * Hover effects
-  * I used hover effects throughout the website to make the site more visually appealing and to 
+  * I have used hover effects throughout the website to make the site more visually appealing and to 
   help users navigate more easily.
 * Colour scheme
   * I used background colours throughout my site to differentiate between sections. This makes it more pleasing to the eye
-  and helps to break the view up from a pure white background features on many sites.
+  and helps to break the view up from a pure white background featured on many sites.
 
 ### **Home.**
 * Large homepage image 
