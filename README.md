@@ -45,6 +45,7 @@ however I believe these changes have made the live website look better overall.
 * Navbar
   * The navbar is has been set to "fixed top" so that it will alway be accessible and pages can easily be
 navigated between. This improves overall user experience.
+  * Underline used in CSS to show which page the user is currently on.
 * Responsive design
   * My website was built mobile first and is fully responsive. This was done using Bootstrap.
 * Hover effects
@@ -123,11 +124,12 @@ me with JavaScript to create a collapsible menu on mobile devices.
 
 
 # Testing.
-* [W3C HTML Validator](https://validator.w3.org/#validate_by_input) was used for HTML validation.
-* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) was used for CSS validation.
+* [W3C HTML Validator](https://validator.w3.org/#validate_by_input) was used for HTML validation. The test came back with no found issues.
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) was used for CSS validation. The test came back with no found issues.
 
 # Credits.
 ## **Content.** 
+* JPEG-Optimiser – I used a JPEG-optimiser to make my images smaller and more condensed in size to help with the website loading speed.
 * Navbar – I used Bootstrap for the navbar and edited the code to change the style and colour. 
 * Social Links – For the social links I followed the code from a tutorial at Code Institute, 
 specifically the CV website build. I made small amendments. I also used icons from Font Awesome.
