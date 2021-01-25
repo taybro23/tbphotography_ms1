@@ -17,8 +17,8 @@ commercial use, such as small businesses for promotional purposes and reporters 
 
 ## **User Stories.**
 ### **Personal Customer Stories**
-* A personal customer would want a good looking website with lots of information and examples of work. 
-* They will be more interested to learn more about the person, what kind of photo shoots they do and experiences that previous customers have had. 
+* A personal customer wants a good looking website with lots of information and examples of work. 
+* They are more interested to learn more about the person, what kind of photo shoots they do and experiences that previous customers have had. 
 * They would like to have the information needed to be able to contact the person if they wish to discuss a possible photo shoot.
 * Social media may be more important to a personal customer, and they will be able to find these links on the footer of each page. 
 
