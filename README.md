@@ -142,5 +142,5 @@ general look over the carousel.
 on the CV website build. 
 
 ## **Acknowledgements.**
-I want to thank my mentor Maranatha for helping me to improve my site, and my fellow Code Institue students 
+I want to thank my mentor Maranatha for helping me to improve my site, and my fellow Code Institute students 
 for their assistance in code queries and improvements!
