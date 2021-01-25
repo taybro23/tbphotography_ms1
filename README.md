@@ -12,8 +12,8 @@ touch using a contact form.
 
 # UX (User Experience).
 ## **Target audience.** 
-The target audience for my website is people who are looking for pictures for personal and 
-commercial use such as small businesses for promotional purposes and newspaper articles. 
+The target audience for my website is people who are looking for photos for personal and/or 
+commercial use, such as small businesses for promotional purposes and reporters for newspaper articles. 
 
 ## **User Stories.**
 ### **Personal Customer Stories**
