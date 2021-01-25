@@ -127,35 +127,35 @@ me with JavaScript to create a collapsible menu on mobile devices.
 * [W3C HTML Validator](https://validator.w3.org/#validate_by_input) was used for HTML validation. The test came back with no found issues.
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) was used for CSS validation. The test came back with no found issues.
 
-Features and Functionality Tests.
-Across All Pages.
-Navbar.
-* I checked that all links work correctly and go to the correct pages. 
-* Fixed top. This was not a feature that I initially had on the site but wanted to add it to make navigating the website more easily. I made sure the code worked on the index page then copied the code across to all pages.
-* I initially had issues with the collapsible menu on mobile devices and tablets, but I realised this was because I did not have the correct script code. This was corrected and now works without issue.
-* The logo font size was too large on some mobile devices and was pushing the hamburger menu down to the next line. I made the text slightly smaller on smaller screens and this has fixed the issue. 
-Footer.
-* I checked all social links are working correctly.
-* The icons for the social links were not working correctly as I had forgotten to include the link to fontawesome. This has been rectified.
-* The footer is to remain at the bottom of all content. I tested this by removing and adding placeholder content to make sure the code worked. 
-Images.
-* I found that when loading the website, it was quite slow, especially on the gallery page. This was due to the file sizes of the images as the photographs were taken using a professional camera. I resized and compressed them all, and it now loads a lot quicker, and takes up significantly less MB when browsing the website. 
-Hover.
-* I checked the hover functionality on the navbar menu items first, and once I had that fully working I used the same base code and implemented it on the logo.
-* I used hover effects on the footer to show which social link is being hovered over, this helps the site user visually. 
-Media Queries.
-* I amended the media queries a few times to make sure they were set to the correct breakpoints and checked across multiple web browsers. They all worked as intended.
+## **Features and Functionality Tests.**
+Across all pages;
+* Navbar.
+  * I checked that all links work correctly and go to the correct pages. 
+  * Fixed top. This was not a feature that I initially had on the site but wanted to add it to make navigating the website more easily. I made sure the code worked on the index page then copied the code across to all pages.
+  * I initially had issues with the collapsible menu on mobile devices and tablets, but I realised this was because I did not have the correct script code. This was corrected and now works without issue.
+  * The logo font size was too large on some mobile devices and was pushing the hamburger menu down to the next line. I made the text slightly smaller on smaller screens and this has fixed the issue. 
+* Footer.
+  * I checked all social links are working correctly.
+  * The icons for the social links were not working correctly as I had forgotten to include the link to fontawesome. This has been rectified.
+  * The footer is to remain at the bottom of all content. I tested this by removing and adding placeholder content to make sure the code worked. 
+* Images.
+  * I found that when loading the website, it was quite slow, especially on the gallery page. This was due to the file sizes of the images as the photographs were taken using a professional camera. I resized and compressed them all, and it now loads a lot quicker, and takes up significantly less MB when browsing the website. 
+* Hover.
+  * I checked the hover functionality on the navbar menu items first, and once I had that fully working I used the same base code and implemented it on the logo.
+  * I used hover effects on the footer to show which social link is being hovered over, this helps the site user visually. 
+* Media Queries.
+  * I amended the media queries a few times to make sure they were set to the correct breakpoints and checked across multiple web browsers. They all worked as intended.
 
-Page Specific.
-Home page images.
-* The images for the homepage would squash down and distort when the screen size was made smaller. I fixed this by amending the “col” sizes so that the breakpoints were more frequent to stop the images from distorting.
-Carousel.
-* After implementing the carousel I checked that the arrow keys worked as intended on mobile and desktop devices. 
-* The carousel size was an issue as it was tricky to get it right across all screen sizes so I used media queries to get the correct size for each screen size. 
-Contact form.
-* The contact form was thoroughly tested to make sure all fields are correctly set to “required”. 
-* The inputs were all checked as well to make sure that the correct types had to be entered eg, email address field had to have the email format. 
-* Telephone number issues with letters being able to be submitted, this has since been fixed and although letters can still be entered in the field, they cannot be submitted and an error message is shown.
+Page Specific;
+* Home page images.
+  * The images for the homepage would squash down and distort when the screen size was made smaller. I fixed this by amending the “col” sizes so that the breakpoints were more frequent to stop the images from distorting.
+* Carousel.
+  * After implementing the carousel I checked that the arrow keys worked as intended on mobile and desktop devices. 
+  * The carousel size was an issue as it was tricky to get it right across all screen sizes so I used media queries to get the correct size for each screen size. 
+* Contact form.
+  * The contact form was thoroughly tested to make sure all fields are correctly set to “required”. 
+  * The inputs were all checked as well to make sure that the correct types had to be entered eg, email address field had to have the email format. 
+  * Telephone number issues with letters being able to be submitted, this has since been fixed and although letters can still be entered in the field, they cannot be submitted and an error message is shown.
 
 
 # Credits.
